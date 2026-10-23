@@ -1,0 +1,21 @@
+{
+  "status": "self-tested-unverified-submission-for-review",
+  "memory": "AtMem 2.3.10b1",
+  "harness": "Hermes",
+  "reader": "openai/gpt-5.6-luna",
+  "passed": 390,
+  "tasks": 600,
+  "by_persona": {
+    "morgan": 135,
+    "alex": 123,
+    "riley": 132
+  },
+  "median_task_latency_seconds": 85.77633229154162,
+  "benchmark_revision": "81cb6f8405b40a9e76089cef650806a80af06ea2",
+  "evidence_repository": "https://huggingface.co/datasets/atmem/atmem-2.3.10b1-dolphinbench",
+  "evidence_revision": "5ef528c499aa26b765fff9d8ed8f2c2e6ee52912",
+  "submission_sha256": "78788ad3455d04407c037706d3ff129d56eafff89beaac101f2a461cb58d7538",
+  "independently_verified": false,
+  "matched_comparator": false,
+  "methodology_and_recovery_exceptions": "See accompanying Markdown and linked dataset card."
+}
