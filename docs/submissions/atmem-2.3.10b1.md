@@ -61,3 +61,10 @@ label or claiming a matched advantage over another memory system.
 The website's ZIP-upload channel remains separate; this PR is the explicit
 maintainer-review submission and does not assert that a website upload or
 listing has already been accepted.
+
+
+## Stable release promotion
+
+The tested build **2.3.10b1** was promoted to [stable AtMem 2.3.10](https://github.com/aetna000/atmem/releases/tag/v2.3.10). The qualification checked all 370 shipped product files: only two explicit version constants changed; retrieval, storage, governance, prompts, defaults, dependencies and companion/bridge implementation remain unchanged. [Qualification](https://github.com/aetna000/atmem/blob/4729197781904bb292ffd0a9c1ec498bab92b5d0/docs/releases/v2.3.10-qualification.md); [publication checks](https://github.com/aetna000/atmem/actions/runs/39901666310).
+
+This remains the original **2.3.10b1, 390/600** recorded run, not a new stable-version benchmark. Original task records, ZIP and evidence revision are unchanged.
